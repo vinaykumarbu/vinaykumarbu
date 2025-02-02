@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I am a Bankend Engineer.
+<p align="left">I am a Backend Engineer.
 <br><br>A tech enthusiast individual who loves to code and learn new things every day.</p>
 
 
