@@ -1,11 +1,16 @@
 
 [<img src="https://raw.githubusercontent.com/vinaykumarbu/vinaykumarbu/master/intro.png" alt="👋 Hi there! I'm (Vinay)|https://in.linkedin.com/in/vinay-kumar-b-u)" title="👋 Hi there! I'm (Vinay)"/>](https://in.linkedin.com/in/vinay-kumar-b-u)
 
+
+
 ###
 
 <div align="center">
   <a href="https://in.linkedin.com/in/vinay-kumar-b-u" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />      
+  </a>
+  <a href="mailto:vinaykumar2498@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-c14438?style=social&logo=Gmail&link=mailto:vinaykumar2498@gmail.com"  height="25" alt="mail logo"  />      
   </a>
 </div>
 
