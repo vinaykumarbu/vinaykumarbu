@@ -1,5 +1,5 @@
 
-[<img src="https://raw.githubusercontent.com/vinaykumarbu/vinaykumarbu/master/intro.png" alt="👋 Hi there! I'm (Vinay)|https://in.linkedin.com/in/vinay-kumar-b-u)" title="👋 Hi there! I'm (Vinay)|https://in.linkedin.com/in/vinay-kumar-b-u)"/>](https://in.linkedin.com/in/vinay-kumar-b-u)
+[<img src="https://raw.githubusercontent.com/vinaykumarbu/vinaykumarbu/master/intro.png" alt="👋 Hi there! I'm (Vinay)|https://in.linkedin.com/in/vinay-kumar-b-u)" title="👋 Hi there! I'm (Vinay)"/>](https://in.linkedin.com/in/vinay-kumar-b-u)
 
 ###
 
@@ -21,7 +21,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👨‍💻  About Me</h3>
 
 ###
 
@@ -30,7 +30,8 @@
 
 
 ###
-<br>
+
+
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
