@@ -30,9 +30,11 @@
 
 ###
 
-<p align="left">I am a Backend Engineer.
-<br><br>A tech enthusiast individual who loves to code and learn new things every day.</p>
+<p align="left">I’m a passionate Backend Engineer with a love for coding and problem-solving. 
+  
+Technology excites me, and I’m always on the lookout for new challenges to learn and grow from. With a deep curiosity about how things work, I’m driven by the opportunity to create scalable and efficient systems that power meaningful experiences.
 
+When I’m not behind the keyboard, you’ll likely find me on the field playing sports. I believe in the importance of teamwork and strategy, both in the office and on the playing field, as they complement my technical skills and keep me energized and focused.</p>
 
 ###
 
