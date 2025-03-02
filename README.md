@@ -2,7 +2,6 @@
 [<img src="https://raw.githubusercontent.com/vinaykumarbu/vinaykumarbu/master/intro.png" alt="👋 Hi there! I'm (Vinay)|https://in.linkedin.com/in/vinay-kumar-b-u)" title="👋 Hi there! I'm (Vinay)"/>](https://in.linkedin.com/in/vinay-kumar-b-u)
 
 
-
 ###
 
 <div align="center">
@@ -73,7 +72,7 @@ When I’m not behind the keyboard, you’ll likely find me on the field playing
         <tr>
             <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvlbv00qn9em8kbljojjx.png" alt="thumbnail"></td>
             <td>
-                <a href="[https://dev.to/jacktt/snowflake-schema-vs-star-schema-pros-cons-and-use-cases-34p9](https://dev.to/vinaykumarbu/designing-databases-for-multi-tenant-systems-shared-vs-isolated-databases-4h9e)">Designing Databases for Multi-Tenant Systems: Shared vs. Isolated Databases</a>
+                <a href="https://dev.to/vinaykumarbu/designing-databases-for-multi-tenant-systems-shared-vs-isolated-databases-4h9e">Designing Databases for Multi-Tenant Systems: Shared vs. Isolated Databases</a>
                 <div><i>02/03/2025</i></div>
             </td>
         </tr>
