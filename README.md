@@ -80,6 +80,30 @@ When I’m not behind the keyboard, you’ll likely find me on the field playing
 </table>
 
 ###
+<h3 align="left">📝 Pulications</h3>
+
+<table>
+        <tr>
+            <td width="300px"><img src="https://img.freepik.com/free-vector/emoji-satisfaction-meter_78370-4158.jpg?t=st=1740902300~exp=1740905900~hmac=f3112b2a5abe5babc4876a17b2b030eb36f51abf239d8faa3bb4c9300bb12d29&w=2000" alt="thumbnail"></td>
+            <td>
+                <a href="https://ijireeice.com/wp-content/uploads/2019/03/IJIREEICE.2019.7206.pdf">Survey on Sentiment Analysis</a>
+              <div><p align="left">This article talks about the best model for analysing the sentiments on live twitter data.</p></div>  
+              <div><i>20/02/2019</i></div>
+            </td>
+        </tr>
+   <tr>
+            <td width="300px">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+          </td>
+            <td>
+                <a href="https://www.npmjs.com/package/ip-address-validator">IP Address Validator</a>
+              <div><p align="left">An open source NPM package to validate the IP address and check its version.</p></div>  
+              <div><i>15/04/2023</i></div>
+            </td>
+        </tr>
+</table>
+
+###
 
 <h3 align="left">🔥   My Stats</h3>
 
