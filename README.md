@@ -73,7 +73,8 @@ When I’m not behind the keyboard, you’ll likely find me on the field playing
             <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fvlbv00qn9em8kbljojjx.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/vinaykumarbu/designing-databases-for-multi-tenant-systems-shared-vs-isolated-databases-4h9e">Designing Databases for Multi-Tenant Systems: Shared vs. Isolated Databases</a>
-                <div><i>02/03/2025</i></div>
+              <div><p align="left">This blog explores how to design databases for multi-tenant systems, highlighting different approaches, the benefits and challenges of each, and best practices for making this crucial decision.</p></div>  
+              <div><i>02/03/2025</i></div>
             </td>
         </tr>
 </table>
